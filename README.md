@@ -1,4 +1,4 @@
-# A simple Docker( React / Express ) App to practice CI / CD
+# A simple Docker( React / Express ) App to practice CI / CD2
 
 ## Frontend workflow
 - cd client
